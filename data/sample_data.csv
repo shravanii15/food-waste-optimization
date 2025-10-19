@@ -1,0 +1,10 @@
+date,store_id,sku,quantity_sold,quantity_discarded,temperature
+2024-01-01,1,apples,100,5,28.0
+2024-01-02,1,apples,80,4,29.0
+2024-01-03,1,apples,120,6,27.0
+2024-01-01,1,bananas,60,3,28.0
+2024-01-02,1,bananas,70,2,29.0
+2024-01-03,1,bananas,65,2,27.0
+2024-01-01,2,apples,90,4,22.0
+2024-01-02,2,apples,85,5,23.0
+2024-01-03,2,apples,95,3,21.0
