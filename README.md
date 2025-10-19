@@ -1,6 +1,6 @@
 # Food Waste Optimization via Supply–Demand Forecasting
 
-**Author:** Shreyas Revankar
+**Author:** Shravani Kulkarni
 
 ## Summary
 This project shows a reproducible demand-forecasting pipeline and a simple inventory-optimization policy to reduce food waste in perishable retail.
