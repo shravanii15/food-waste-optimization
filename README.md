@@ -23,3 +23,17 @@ Python, pandas, scikit-learn, matplotlib
 
 ## Attribution
 Inspired by [Foodzilla](https://github.com/aditikandoi/Foodzilla).
+
+## 🧮 Results
+
+After training and running the simulation on sample data:
+
+- Estimated monthly food waste discarded: **~90.5 kg**
+- Generated visual forecasts for each product (see images below)
+
+### Example Forecast Plots
+| Product | Forecast Plot |
+|----------|----------------|
+| Apples | ![Apples](results/forecast_apples.png) |
+| Bananas | ![Bananas](results/forecast_bananas.png) |
+
